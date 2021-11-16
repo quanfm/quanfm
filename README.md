@@ -9,3 +9,6 @@ My name is Quân Đinh. I'm Freelancer.
       ► <a href="https://www.behance.net/quninh "> My Behance </a>
 - 😄 Pronouns: Every day do something that will inch you closer to a better tomorrow!
 - ⚡ Fun fact: I will try my best for all da thing.
+
+### Spotify Playing 🎧
+<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />
